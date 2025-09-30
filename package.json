@@ -1,0 +1,41 @@
+{
+  "name": "gosthy-theme",
+  "displayName": "Gosthy",
+  "description": "Un tema elegante con colores personalizados - Gosthy Theme",
+  "version": "1.3.2",
+  "publisher": "mi-publisher",
+  "author": {
+    "name": "Miguel Luna"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "azul",
+    "blue",
+    "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gosthy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gosthy-theme.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelin04/gosthy-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/miguelin04/gosthy-theme/issues"
+  },
+  "homepage": "https://github.com/miguelin04/gosthy-theme#readme"
+}
