@@ -49,7 +49,7 @@ Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE.md](LICENSE.md
 
 ## Autor
 
-Creado con ❤️ por [Tu Nombre]
+Creado con ❤️ por [Miguel Luna]
 
 ---
 
